@@ -1,0 +1,5 @@
+[http]
+	sslVerify = false
+[user]
+	name = Yohana Desa
+	email = yohana.lopez.ext@telefonica.com
